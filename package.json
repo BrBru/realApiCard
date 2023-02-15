@@ -1,0 +1,15 @@
+{
+  "name": "realapicard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bru",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.6.0",
+    "cypress-localstorage-commands": "^2.2.2"
+  }
+}
